@@ -3,6 +3,6 @@ def hello
 end
 
 def greet(name = gets.chomp)
-  return "Hello #{name} !"
+  return "Hello, #{name} !"
 
 end
